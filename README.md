@@ -22,7 +22,3 @@ educational use only, no commercial use).**
 ## 技术 / Tech
 Vue 3 + Three.js, bundled with Vite.
 
----
-> The application source is maintained in a separate private repository.
-> This repo hosts the public build and serves as the project's landing page.
-
